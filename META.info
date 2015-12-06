@@ -1,0 +1,13 @@
+{
+    "name" : "Tolerance",
+    "version" : "0.01",
+    "description" : "tolerance",
+    "author" : "Justin DeVuyst",
+    "depends" : [
+        "Test"
+    ],
+    "provides" : {
+        "Tolerance" : "lib/Tolerance.pm6"
+    },
+    "source-url" : "git://github.com/jdv/p6-tolerance.git"
+}
